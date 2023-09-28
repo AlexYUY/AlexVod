@@ -14,7 +14,7 @@
         "key": "lyzy",
         "name": "【🔞】雅雅影院",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://api.apilyzy.com/api.php/provide/vod/"
      },
      
@@ -22,21 +22,21 @@
         "key": "caoliu",
         "name": "【🔞】溜溜影院",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://www.caoliuzyw.com/api.php/provide/vod"
      },
      {
         "key": "shayuapi",
         "name": "【🔞】煜煜资源",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://shayuapi.com/api.php/provide/vod/"
      },
      {
         "key": "sewozy",
         "name": "【🔞】沃沃影院",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://sewozyapi.com/api.php/provide/vod/"
      } , 
      
@@ -405,25 +405,25 @@
         "key": "bookan",
         "name": "【🎧】博看书屋",
         "type": 10,
-        "api": "assets://js/bookan_open.js"
+        "api": "./bookan_open.js"
       },
       {
         "key": "230ts",
         "name": "【🎧】230听书",
         "type": 10,
-        "api": "assets://js/230ts_book_open.js"
+        "api": "./230ts_book_open.js"
       },
       {
         "key": "dj",
         "name": "【🎧】dj音乐",
         "type": 10,
-        "api": "assets://js/dj0898_book_open.js"
+        "api": "./dj0898_book_open.js"
       },
       {
         "key": "laobaigushi",
         "name": "【🎧】老白故事",
         "type": 10,
-        "api": "assets://js/lbgs_open.js"
+        "api": "./lbgs_open.js"
       }
     ]
   },
