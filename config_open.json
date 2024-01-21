@@ -12,19 +12,19 @@
         "key": "kkys",
         "name": "【🐠】ALEX影视",
         "type": 3,
-        "api": "assets://js/kkys_open.js"
+        "api": "./kkys_open.js"
       },
       {
         "key": "ngsp",
         "name": "【🐠】南瓜影院",
         "type": 3,
-        "api": "assets://js/ng_open.js"
+        "api": "./ng_open.js"
       },
       {
         "key": "yiqik",
         "name": "【🐠】一起影视",
         "type": 3,
-        "api": "assets://js/yqktv_open.js"
+        "api": "./yqktv_open.js"
       },   
       {
         "key": "wogg",
@@ -87,40 +87,40 @@
         "key": "libvio",
         "name": "【🐠】利播影视",
         "type": 3,
-        "api": "assets://js/libvio_open.js"
+        "api": "./libvio_open.js"
       },
      
       {
         "key": "subaibai",
         "name": "【🐠】素白影视",
         "type": 3,
-        "api": "assets://js/subaibai_open.js"
+        "api": "./subaibai_open.js"
       },
      {
         "key": "subaibai2",
         "name": "【🐠】素黑影视",
         "type": 3,
-        "api": "assets://js/subaibai2_open.js"
+        "api": "./subaibai2_open.js"
       },
       {
         "key": "1080dyw",
         "name": "【🐠】1080电影",
         "type": 3,
-        "api": "assets://js/AppYsV2.js",
+        "api": "./AppYsV2.js",
         "ext": "https://www.1080dyw.cc/api.php/v1.vod"
       },
       {
         "key": "shijie",
         "name": "【🐠】视界影视",
         "type": 3,
-        "api": "assets://js/AppYsV2.js",
+        "api": "./AppYsV2.js",
         "ext": "http://www.1080dyw.cc/api.php/v1.vod"
       },
       {
         "key": "69mj",
         "name": "【🐠】美剧影视",
         "type": 3,
-        "api": "assets://js/AppYsV2.js",
+        "api": "./AppYsV2.js",
         "ext": "https://www.69mj.com/xgapp.php/v2/"
       },
    
@@ -128,7 +128,7 @@
         "key": "beijihu",
         "name": "【🐠】极狐影视",
         "type": 3,
-        "api": "assets://js/AppYsV2.js",
+        "api": "./AppYsV2.js",
         "ext": "https://www.kuin.one/api.php/app/"
       },
          
@@ -136,7 +136,7 @@
         "key": "xinlang",
         "name": "【🐠】新浪影视",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8"
       },
       {
@@ -199,21 +199,21 @@
         "key": "bdzy",
         "name": "【🐠】百度影视",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/"
       },
       {
         "key": "bfzy",
         "name": "【🐠】暴风影视",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://bfzyapi.com/api.php/provide/vod/"
       },
       {
         "key": "394tv",
         "name": "【🐠】39影视",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://www.394tv.com/api.php/provide/vod/"
       },
      
@@ -221,14 +221,14 @@
         "key": "piaoling",
         "name": "【🐠】飘零影视",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://p2100.net/api.php/provide/vod/"
       },
       {
         "key": "shenmajuhe",
         "name": "【🐠】神马影视",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://img.smdyw.top/api.php/provide/vod/"
       },
       {
@@ -241,107 +241,107 @@
         "key": "feifan",
         "name": "【🐠】非凡影视",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/"
       },
       {
         "key": "feisu",
         "name": "【🐠】飞速影视",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/"
       },
       {
         "key": "guangsu",
         "name": "【🐠】光速影视",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/"
       },
       {
         "key": "hongniu",
         "name": "【🐠】红牛影视",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/"
       },
       {
         "key": "ikun",
         "name": "【🐠】ikun影视",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://ikunzyapi.com/api.php/provide/vod"
       },
       {
         "key": "jinying",
         "name": "【🐠】金鹰影视",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://jinyingzy.com/provide/vod/from/jinyingm3u8/"
       },
       {
         "key": "jisu",
         "name": "【🐠】极速影视",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/"
       },
       {
         "key": "kuaiche",
         "name": "【🐠】快车影视",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/"
       },
       {
         "key": "liangzi",
         "name": "【🐠】量子影视",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/"
       },
       {
         "key": "qihu",
         "name": "【🐠】奇虎影视",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/"
       },
       {
         "key": "cntv",
         "name": "【🐠】电视剧场",
         "type": 3,
-        "api": "assets://js/cntv_open.js"
+        "api": "./cntv_open.js"
       },
       {
         "key": "ubestkid",
         "name": "【🐠】贝乐剧场",
         "type": 3,
-        "api": "assets://js/ubestkid_open.js"
+        "api": "./ubestkid_open.js"
       },
       {
         "key": "tuxiaobei",
         "name": "【🐠】小贝影视",
         "type": 3,
-        "api": "assets://js/tuxiaobei_open.js"
+        "api": "./tuxiaobei_open.js"
       },
       {
         "key": "boosj",
         "name": "【🐠】童趣影视",
         "type": 3,
-        "api": "assets://js/boosj_open.js"
+        "api": "./boosj_open.js"
       },
       {
         "key": "mybl",
         "name": "【🐠】哔哩音乐",
         "type": 3,
-        "api": "assets://js/mybili_open.js"
+        "api": "./mybili_open.js"
       },
       {
         "key": "bili",
         "name": "【🐠】哔哩影视",
         "type": 3,
-        "api": "assets://js/bili_open.js",
+        "api": "./bili_open.js",
         "ext": {
           "categories": "音乐#动画#电影#电视剧#番剧#综艺#影视#国创#娱乐#游戏#搞笑#单机游戏",
           "cookie": "DedeUserID=2094460628; DedeUserID__ckMd5=94bbeb886d494739;SESSDATA=748dfbc0,1708859730,cbafb*81AooXkPrl53lWbOxRVPVi9b-JpWUMnbJLKHmtFxCakxdnuUEXQ72U8AeQAG9KLJDAlcCAPwAAHAA; bili_jct=29bce39adc58a2472ed92b256b10b72d;"
@@ -351,38 +351,38 @@
         "key": "sharenice",
         "name": "【🐠】短视频集",
         "type": 3,
-        "api": "assets://js/sharenice_open.js"
+        "api": "./sharenice_open.js"
       },
       {
         "key": "duboku2",
         "name": "【🐠】独播国内",
         "type": 3,
-        "api": "assets://js/duboku2_open.js"
+        "api": "./duboku2_open.js"
       },
       {
         "key": "kuqimv",
         "name": "【🐠】酷奇MV",
         "type": 3,
-        "api": "assets://js/kuqimv_open.js"
+        "api": "./kuqimv_open.js"
       },
       {
         "key": "230ts",
         "name": "【🐠】爱上听书",
         "type": 3,
-        "api": "assets://js/230ts_open.js"
+        "api": "./230ts_open.js"
       },
       {
         "key": "0809",
         "name": "【🐠】DJ音乐",
         "type": 3,
-        "api": "assets://js/dj0898_open.js"
+        "api": "./dj0898_open.js"
       },
    
       {
         "key": "kuu",
         "name": "【🐠】酷客影视",
         "type": 3,
-        "api": "assets://js/AppYsV2.js",
+        "api": "./AppYsV2.js",
         "ext": "https://www.kuin.one/api.php/app/"
       },  
     
@@ -390,7 +390,7 @@
         "key": "sukan",
         "name": "【🐠】速看影视",
         "type": 3,
-        "api": "assets://js/AppYsV2.js",
+        "api": "./AppYsV2.js",
         "ext": "https://sk100.tv/api.php/app/"
       },  
      
@@ -398,7 +398,7 @@
         "key": "dadou",
         "name": "【🐠】大豆影视",
         "type": 3,
-        "api": "assets://js/AppYsV2.js",
+        "api": "./AppYsV2.js",
         "ext": "http://www.dadou.cm/api.php/app/"
       },      
     
@@ -631,25 +631,25 @@
         "key": "bookan",
         "name": "【🎧】博看",
         "type": 10,
-        "api": "assets://js/bookan_open.js"
+        "api": "./bookan_open.js"
       },
       {
         "key": "230ts",
         "name": "【🎧】听书",
         "type": 10,
-        "api": "assets://js/230ts_book_open.js"
+        "api": "./230ts_book_open.js"
       },
       {
         "key": "dj",
         "name": "【🎧】音乐",
         "type": 10,
-        "api": "assets://js/dj0898_book_open.js"
+        "api": "./dj0898_book_open.js"
       },
       {
         "key": "laobaigushi",
         "name": "【🎧】老白",
         "type": 10,
-        "api": "assets://js/lbgs_open.js"
+        "api": "./lbgs_open.js"
       }, 
 
    {
@@ -672,7 +672,7 @@
               "key": "copymanga",
               "name": "漫画",
               "type": 20,
-              "api": "assets://js/copymanga_open.js"
+              "api": "./copymanga_open.js"
           }
       ]
   },
