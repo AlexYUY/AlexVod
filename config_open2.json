@@ -12,7 +12,7 @@
         "key": "lyzy",
         "name": "【🔞】雅雅影院",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://api.apilyzy.com/api.php/provide/vod/"
      },
 
@@ -20,7 +20,7 @@
         "key": "caoliu",
         "name": "【🔞】溜溜影院",
         "type": 3,
-        "api": "assets://js/caiji.js",
+        "api": "./caiji.js",
         "ext": "https://www.caoliuzyw.com/api.php/provide/vod"
      },
      
@@ -686,25 +686,25 @@
         "key": "bookan",
         "name": "【🎧】博看",
         "type": 10,
-        "api": "assets://js/bookan_open.js"
+        "api": "./bookan_open.js"
       },
       {
         "key": "230ts",
         "name": "【🎧】听书",
         "type": 10,
-        "api": "assets://js/230ts_book_open.js"
+        "api": "./230ts_book_open.js"
       },
       {
         "key": "dj",
         "name": "【🎧】音乐",
         "type": 10,
-        "api": "assets://js/dj0898_book_open.js"
+        "api": "./dj0898_book_open.js"
       },
       {
         "key": "laobaigushi",
         "name": "【🎧】老白",
         "type": 10,
-        "api": "assets://js/lbgs_open.js"
+        "api": "./lbgs_open.js"
       }, 
 
    {
@@ -727,7 +727,7 @@
               "key": "copymanga",
               "name": "漫画",
               "type": 20,
-              "api": "assets://js/copymanga_open.js"
+              "api": "./copymanga_open.js"
           }
       ]
   },
