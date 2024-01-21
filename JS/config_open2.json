@@ -6,13 +6,13 @@
         "name": "【🐠】豆瓣推荐",
         "type": 3,
         "indexs": 1,
-        "api": "douban_open.js"
+        "api": "./douban_open.js"
      },    
     {
         "key": "lyzy",
         "name": "【🔞】雅雅影院",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://api.apilyzy.com/api.php/provide/vod/"
      },
 
@@ -20,7 +20,7 @@
         "key": "caoliu",
         "name": "【🔞】溜溜影院",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://www.caoliuzyw.com/api.php/provide/vod"
      },
      
@@ -28,14 +28,14 @@
                 "key": "yutuu",
                 "name": "【🔞】玉兔资源",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://api.sexnguon.com/api.php/provide/vod/"
             },  
               {
                 "key": "xiezhen",
                 "name": "【🔞】写真资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://kkzy.me/api.php/provide/vod/"
             },                
                       
@@ -43,21 +43,21 @@
                 "key": "tianmei",
                 "name": "【🔞】天美资源",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://api.yikanapi.com/api.php/provide/vod/"
             },            
             {
                 "key": "chunmei",
                 "name": "【🔞】传媒资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://api.maozyapi.com/inc/apijson_vod.php"},
             
             {
                 "key": "chujia",
                 "name": "【🔞】精东影视",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "http://chujia.cc/api.php/provide/vod/from/m3u8/"
             },
             
@@ -65,7 +65,7 @@
                 "key": "apiyikanapi",
                 "name":"️【🔞】易看资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://api.yikanapi.com/api.php/provide/vod/at/json"
             },
        
@@ -74,7 +74,7 @@
                 "key": "kuaiavzy",
                 "name": "【🔞】快爱资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "http://kuaiavzy.com/api.php/provide/vod/at/json"
             },
            
@@ -82,20 +82,20 @@
                 "key": "api.maozyapi.com",
                 "name": "【🔞】猫咪资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://api.maozyapi.com/inc/apijson_vod.php"
             },
             {
                 "key": "siwazywtw",
                 "name": "【🔞】袜丝资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://www.siwazyw.tv/api.php/provide/vod/at/json"
             },
             {
                 "key": "siwa",
                 "name": "【🔞】丝袜资源",
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "type": 1,
                 "ext": "https://haiwai.siwazyw.org/api.php/provide/vod/at/json"
             },
@@ -103,7 +103,7 @@
             {
                 "key": "semao",
                 "name": "【🔞】色猫资源",
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "type": 1,
                 "ext": "https://caiji.semaozy.net/inc/apijson_vod.php"
             },
@@ -112,21 +112,21 @@
                 "key": "putaozyw",
                 "name": "【🔞】葡萄资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://caiji.putaozyw.net/inc/apijson_vod.php"
             },
             {
                 "key": "apiddapi",
                 "name": "【🔞】滴滴资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://api.ddapi.cc/api.php/provide/vod/at/json"
             },
             {
                 "key": "apixbapi",
                 "name": "【🔞】BB资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://api.xbapi.cc/api.php/provide/vod/at/json"
             },
           
@@ -134,14 +134,14 @@
                 "key": "timizy10",
                 "name": "【🔞】甜蜜资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://timizy10.cc/api.php/provide/vod/at/json"
             },
             {
                 "key": "naixxzy",
                 "name": "【🔞】奶香资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://naixxzy.com/api.php/provide/vod/at/json"
             },
           
@@ -149,7 +149,7 @@
                 "key": "156249",
                 "name": "【🔞】蛋蛋资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "http://156.249.29.8/inc/apijson_vod.php"
             },
           
@@ -157,7 +157,7 @@
                 "key": "bominzy",
                 "name": "【🔞】博民资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://www.bominzy.com/api.php/provide/vod/at/json"
             },
          
@@ -165,14 +165,14 @@
                 "key": "apittzy.com",
                 "name": "【🔞】天天资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://apittzy.com/api.php/provide/vod/at/json"
             },
             {
                 "key": "8day",
                 "name": "【🔞】七天资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://8day.icu/api.php/provide/vod/at/json"
             },
            
@@ -180,35 +180,35 @@
                 "key": "91av",
                 "name": "【🔞】91视频",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://91av.cyou/api.php/provide/vod/at/json"
             },
             {
                 "key": "92free",
                 "name": "【🔞】久爱资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "http://92free.icu/api.php/provide/vod/at/json"
             },
             {
                 "key": "tmav",
                 "name": "【🔞】美亚资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://tmav.art/api.php/provide/vod/at/json"
             },
             {
                 "key": "sezy",
                 "name": "【🔞】色网资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://sezy.website/api.php/provide/vod/at/json"
             },
             {
                 "key": "xxavs",
                 "name": "【🔞】湿园资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://xxavs.com/api.php/provide/vod/at/json"
             },
            
@@ -216,7 +216,7 @@
                 "key": "auezy",
                 "name": "【🔞】优异资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://a.uezy.pw/api.php/provide/vod/at/json"
             },
            
@@ -224,14 +224,14 @@
                 "key": "apilsbzy1",
                 "name": "【🔞】色逼资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://apilsbzy1.com/api.php/provide/vod/at/json"
             },
             {
                 "key": "toto-long",
                 "name": "【🔞】橘猫资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://to.to-long.com/api.php/provide/vod/at/json"
             },
            
@@ -239,7 +239,7 @@
                 "key": "apittzy",
                 "name": "【🔞】探探资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://apittzy.com/api.php/provide/vod/at/json"
             },
            
@@ -247,7 +247,7 @@
                 "key": "hghhh",
                 "name": "【🔞】皇冠资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://hghhh.com/api.php/provide/vod/at/json"
             },
            
@@ -255,7 +255,7 @@
                 "key": "apiyutu",
                 "name": "【🔞】玉兔资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://apiyutu.com/api.php/provide/vod/at/json"
             },
            
@@ -675,7 +675,7 @@
                 "key": "fhapi9",
                 "name": "【🔞】番号资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "http://fhapi9.com/api.php/provide/vod/at/json"
             }
     ]
@@ -686,38 +686,38 @@
         "key": "bookan",
         "name": "【🎧】博看",
         "type": 10,
-        "api": "bookan_open.js"
+        "api": "./bookan_open.js"
       },
       {
         "key": "230ts",
         "name": "【🎧】听书",
         "type": 10,
-        "api": "230ts_book_open.js"
+        "api": "./230ts_book_open.js"
       },
       {
         "key": "dj",
         "name": "【🎧】音乐",
         "type": 10,
-        "api": "dj0898_book_open.js"
+        "api": "./dj0898_book_open.js"
       },
       {
         "key": "laobaigushi",
         "name": "【🎧】老白",
         "type": 10,
-        "api": "lbgs_open.js"
+        "api": "./lbgs_open.js"
       }, 
 
    {
         "key": "书音FM",
         "name": "【🎧】书音",
         "type": 10,
-        "api": "shuyinfm_book_open.js"
+        "api": "./shuyinfm_book_open.js"
    }, 
    {
         "key": "13听书",
         "name": "【🎧】十三",
         "type": 10,
-        "api": "ting13_book_open.js"
+        "api": "./ting13_book_open.js"
    }
     ]
   },
@@ -727,7 +727,7 @@
               "key": "copymanga",
               "name": "漫画",
               "type": 20,
-              "api": "copymanga_open.js"
+              "api": "./copymanga_open.js"
           }
       ]
   },
@@ -738,7 +738,7 @@
         "key": "alist",
         "name": "Alist",
         "type": 40,
-        "api": "alist_open.js",
+        "api": "./alist_open.js",
         "ext": [
           {
             "name": "🙋丫仙女",

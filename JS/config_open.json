@@ -6,66 +6,66 @@
         "name": "【🐠】豆瓣推荐",
         "type": 3,
         "indexs": 1,
-        "api": "douban_open.js"
+        "api": "./douban_open.js"
      },  
       {
         "key": "kkys",
         "name": "【🐠】ALEX影视",
         "type": 3,
-        "api": "kkys_open.js"
+        "api": "./kkys_open.js"
       },
       {
         "key": "ngsp",
         "name": "【🐠】南瓜影院",
         "type": 3,
-        "api": "ng_open.js"
+        "api": "./ng_open.js"
       },
       {
         "key": "yiqik",
         "name": "【🐠】一起影视",
         "type": 3,
-        "api": "yqktv_open.js"
+        "api": "./yqktv_open.js"
       },   
       {
         "key": "wogg",
         "name": "【🐠】玩偶哥哥",
         "type": 3,
-      "api": "wogg_open.js",
+      "api": "./wogg_open.js",
         "ext": "1e957060a1f0498381283e35b6ef3651"
       },
       {
         "key": "玩偶表哥",
         "name": "【🐠】玩偶表哥",
         "type": 3,
-        "api": "wobg_open.js",
+        "api": "./wobg_open.js",
         "ext": "1e957060a1f0498381283e35b6ef3651"
     },
     {
         "key": "玩偶老表",
         "name": "【🐠】玩偶老表",
         "type": 3,
-        "api": "wolb_open.js",
+        "api": "./wolb_open.js",
         "ext": "1e957060a1f0498381283e35b6ef3651"
     },
  {
         "key": "爱看机器人",
         "name": "【🐠】爱看影视",
         "type": 3,
-        "api": "ikanbot_open.js"
+        "api": "./ikanbot_open.js"
    },
   
     {
         "key": "厂长资源",
         "name": "【🐠】厂长影视",
         "type": 3,
-        "api": "czzy_open2.js",
+        "api": "./czzy_open2.js",
         "ext": "https://www.czzy66.com/"
     },
       {
         "key": "aliys",
         "name": "【🐠】阿里影视",
         "type": 3,
-        "api": "AppYsV2.js",
+        "api": "./AppYsV2.js",
         "ext": "http://aliys.cn:90/api.php/v1.vod"
        },      
       
@@ -73,13 +73,13 @@
       "key": "555",
       "name": "【🐠】555影视",
       "type": 3,
-      "api": "555dy_open.js"
+      "api": "./555dy_open.js"
        },     
       {
         "key": "49zyw",
         "name": "【🐠】四九资源",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://49zyw.com/api.php/provide/vod/from/49zyw"
          },     
  
@@ -87,40 +87,40 @@
         "key": "libvio",
         "name": "【🐠】利播影视",
         "type": 3,
-        "api": "libvio_open.js"
+        "api": "./libvio_open.js"
       },
      
       {
         "key": "subaibai",
         "name": "【🐠】素白影视",
         "type": 3,
-        "api": "subaibai_open.js"
+        "api": "./subaibai_open.js"
       },
      {
         "key": "subaibai2",
         "name": "【🐠】素黑影视",
         "type": 3,
-        "api": "subaibai2_open.js"
+        "api": "./subaibai2_open.js"
       },
       {
         "key": "1080dyw",
         "name": "【🐠】1080电影",
         "type": 3,
-        "api": "AppYsV2.js",
+        "api": "./AppYsV2.js",
         "ext": "https://www.1080dyw.cc/api.php/v1.vod"
       },
       {
         "key": "shijie",
         "name": "【🐠】视界影视",
         "type": 3,
-        "api": "AppYsV2.js",
+        "api": "./AppYsV2.js",
         "ext": "http://www.1080dyw.cc/api.php/v1.vod"
       },
       {
         "key": "69mj",
         "name": "【🐠】美剧影视",
         "type": 3,
-        "api": "AppYsV2.js",
+        "api": "./AppYsV2.js",
         "ext": "https://www.69mj.com/xgapp.php/v2/"
       },
    
@@ -128,7 +128,7 @@
         "key": "beijihu",
         "name": "【🐠】极狐影视",
         "type": 3,
-        "api": "AppYsV2.js",
+        "api": "./AppYsV2.js",
         "ext": "https://www.kuin.one/api.php/app/"
       },
          
@@ -136,21 +136,21 @@
         "key": "xinlang",
         "name": "【🐠】新浪影视",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8"
       },
       {
         "key": "Youku",
         "name": "【🐠】优酷影视",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://api.ukuapi.com/api.php/provide/vod/"
        },      
        {
         "key": "yinghua",
         "name": "【🐠】樱花影视",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://m3u8.apiyhzy.com/api.php/provide/vod/"
        },      
       
@@ -158,21 +158,21 @@
          "key": "tugou",
          "name": "【🐠】土狗影视",
          "type": 1,
-         "api": "caiji.js",
+         "api": "./caiji.js",
          "ext": "https://api.yparse.com/api/json"
         },    
         {
          "key": "kuaiboo",
          "name": "【🐠】快播影视",
          "type": 1,
-         "api": "caiji.js",
+         "api": "./caiji.js",
          "ext": "http://47.113.126.237:1234/api.php/provide/vod/"
             }, 
         {
         "key": "suoni",
         "name": "【🐠】索尼影视",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": {
           "url": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
           "categories": [
@@ -199,21 +199,21 @@
         "key": "bdzy",
         "name": "【🐠】百度影视",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/"
       },
       {
         "key": "bfzy",
         "name": "【🐠】暴风影视",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://bfzyapi.com/api.php/provide/vod/"
       },
       {
         "key": "394tv",
         "name": "【🐠】39影视",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://www.394tv.com/api.php/provide/vod/"
       },
      
@@ -221,14 +221,14 @@
         "key": "piaoling",
         "name": "【🐠】飘零影视",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://p2100.net/api.php/provide/vod/"
       },
       {
         "key": "shenmajuhe",
         "name": "【🐠】神马影视",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://img.smdyw.top/api.php/provide/vod/"
       },
       {
@@ -241,107 +241,107 @@
         "key": "feifan",
         "name": "【🐠】非凡影视",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/"
       },
       {
         "key": "feisu",
         "name": "【🐠】飞速影视",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/"
       },
       {
         "key": "guangsu",
         "name": "【🐠】光速影视",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/"
       },
       {
         "key": "hongniu",
         "name": "【🐠】红牛影视",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/"
       },
       {
         "key": "ikun",
         "name": "【🐠】ikun影视",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://ikunzyapi.com/api.php/provide/vod"
       },
       {
         "key": "jinying",
         "name": "【🐠】金鹰影视",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://jinyingzy.com/provide/vod/from/jinyingm3u8/"
       },
       {
         "key": "jisu",
         "name": "【🐠】极速影视",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/"
       },
       {
         "key": "kuaiche",
         "name": "【🐠】快车影视",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/"
       },
       {
         "key": "liangzi",
         "name": "【🐠】量子影视",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/"
       },
       {
         "key": "qihu",
         "name": "【🐠】奇虎影视",
         "type": 3,
-        "api": "caiji.js",
+        "api": "./caiji.js",
         "ext": "https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/"
       },
       {
         "key": "cntv",
         "name": "【🐠】电视剧场",
         "type": 3,
-        "api": "cntv_open.js"
+        "api": "./cntv_open.js"
       },
       {
         "key": "ubestkid",
         "name": "【🐠】贝乐剧场",
         "type": 3,
-        "api": "ubestkid_open.js"
+        "api": "./ubestkid_open.js"
       },
       {
         "key": "tuxiaobei",
         "name": "【🐠】小贝影视",
         "type": 3,
-        "api": "tuxiaobei_open.js"
+        "api": "./tuxiaobei_open.js"
       },
       {
         "key": "boosj",
         "name": "【🐠】童趣影视",
         "type": 3,
-        "api": "boosj_open.js"
+        "api": "./boosj_open.js"
       },
       {
         "key": "mybl",
         "name": "【🐠】哔哩音乐",
         "type": 3,
-        "api": "mybili_open.js"
+        "api": "./mybili_open.js"
       },
       {
         "key": "bili",
         "name": "【🐠】哔哩影视",
         "type": 3,
-        "api": "bili_open.js",
+        "api": "./bili_open.js",
         "ext": {
           "categories": "音乐#动画#电影#电视剧#番剧#综艺#影视#国创#娱乐#游戏#搞笑#单机游戏",
           "cookie": "DedeUserID=2094460628; DedeUserID__ckMd5=94bbeb886d494739;SESSDATA=748dfbc0,1708859730,cbafb*81AooXkPrl53lWbOxRVPVi9b-JpWUMnbJLKHmtFxCakxdnuUEXQ72U8AeQAG9KLJDAlcCAPwAAHAA; bili_jct=29bce39adc58a2472ed92b256b10b72d;"
@@ -351,38 +351,38 @@
         "key": "sharenice",
         "name": "【🐠】短视频集",
         "type": 3,
-        "api": "sharenice_open.js"
+        "api": "./sharenice_open.js"
       },
       {
         "key": "duboku2",
         "name": "【🐠】独播国内",
         "type": 3,
-        "api": "duboku2_open.js"
+        "api": "./duboku2_open.js"
       },
       {
         "key": "kuqimv",
         "name": "【🐠】酷奇MV",
         "type": 3,
-        "api": "kuqimv_open.js"
+        "api": "./kuqimv_open.js"
       },
       {
         "key": "230ts",
         "name": "【🐠】爱上听书",
         "type": 3,
-        "api": "230ts_open.js"
+        "api": "./230ts_open.js"
       },
       {
         "key": "0809",
         "name": "【🐠】DJ音乐",
         "type": 3,
-        "api": "dj0898_open.js"
+        "api": "./dj0898_open.js"
       },
    
       {
         "key": "kuu",
         "name": "【🐠】酷客影视",
         "type": 3,
-        "api": "AppYsV2.js",
+        "api": "./AppYsV2.js",
         "ext": "https://www.kuin.one/api.php/app/"
       },  
     
@@ -390,7 +390,7 @@
         "key": "sukan",
         "name": "【🐠】速看影视",
         "type": 3,
-        "api": "AppYsV2.js",
+        "api": "./AppYsV2.js",
         "ext": "https://sk100.tv/api.php/app/"
       },  
      
@@ -398,7 +398,7 @@
         "key": "dadou",
         "name": "【🐠】大豆影视",
         "type": 3,
-        "api": "AppYsV2.js",
+        "api": "./AppYsV2.js",
         "ext": "http://www.dadou.cm/api.php/app/"
       },      
     
@@ -406,7 +406,7 @@
         "key": "zhaifu",
         "name": "【🐠】宅腐影视",
         "type": 3,
-        "api": "AppYsV2.js",
+        "api": "./AppYsV2.js",
         "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
       },          
           
@@ -414,14 +414,14 @@
                 "key": "muzii",
                 "name": "【🐠】木子影视",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://www.rrvipw.com/api.php/provide/vod/"
             },      
             {
                 "key": "wolong",
                 "name": "【🐠】卧龙影视",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": {"url":"https://collect.wolongzyw.com/api.php/provide/vod/", 
         "categories": "国产剧#台湾剧#欧美剧#香港剧#海外剧#惊悚片#喜剧片#动作片#伦理片#爱情片#科幻片#剧情片#动画片#国产动漫#欧美动漫"}
             },         
@@ -429,7 +429,7 @@
       {
                 "key": "liuyou",
                 "name": "【🐠】六优资源",
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "type": 1,
                 "ext": "http://www.6uzy.cc/inc/apijson_vod.php"
             },
@@ -437,7 +437,7 @@
             {
                 "key": "piaohua",
                 "name": "【🐠】飘花资源",
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "type": 1,
                 "ext": "http://www.zzrhgg.com/api.php/provide/vod/at/json"
             },
@@ -446,7 +446,7 @@
                 "key": "49zyw",
                 "name": "【🐠】四九资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://49zyw.com/api.php/provide/vod/at/json"
             },
 
@@ -454,7 +454,7 @@
                 "key": "68zy88",
                 "name": "【🐠】六八资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://68zy88.com/api.php/provide/vod/at/json"
             },
 
@@ -462,7 +462,7 @@
                 "key": "subo",
                 "name": "【🐠】速博资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://subocaiji.com/api.php/provide/vod/at/json"
             },
 
@@ -470,7 +470,7 @@
                 "key": "huyaapi",
                 "name": "【🐠】虎牙资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://www.huyaapi.com/api.php/provide/vod/at/json"
             },
 
@@ -478,7 +478,7 @@
                 "key": "qhzyapi",
                 "name": "【🐠】奇虎资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://caiji.qhzyapi.com/api.php/provide/vod/at/json"
             },
 
@@ -486,7 +486,7 @@
                 "key": "kswandouzy",
                 "name": "【🐠】豌豆资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://ks.wandouzy.cc/api.php/provide/vod/at/json"
             },
 
@@ -494,7 +494,7 @@
                 "key": "jiguang",
                 "name": "【🐠】极光资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://jiguang.la/api.php/provide/vod/at/json"
             },
 
@@ -502,7 +502,7 @@
                 "key": "hw8",
                 "name": "【🐠】华为资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://hw8.live/api.php/provide/vod/at/json"
             },
  
@@ -510,7 +510,7 @@
                 "key": "xzcjz",
                 "name": "【🐠】熊掌资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://xzcjz.com/api.php/provide/vod/at/json"
             },
 
@@ -518,7 +518,7 @@
                 "key": "kekezyapi",
                 "name": "【🐠】可可资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://caiji.kekezyapi.com/api.php/provide/vod/at/json"
             },
 
@@ -526,7 +526,7 @@
                 "key": "xkanzy10",
                 "name": "【🐠】享看资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://xkanzy10.com/api.php/provide/vod/at/json"
             },
 
@@ -534,7 +534,7 @@
                 "key": "damozy",
                 "name": "【🐠】大漠资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://damozy.com/api.php/provide/vod/at/json"
             },
   
@@ -542,7 +542,7 @@
                 "key": "kuaiyunzy",
                 "name": "【🐠】快云资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://www.kuaiyunzy.com/api.php/provide/vod/at/json"
             },
 
@@ -550,7 +550,7 @@
                 "key": "jszyapi",
                 "name": "【🐠】极速资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://jszyapi.com/api.php/provide/vod/at/json"
             },
 
@@ -558,7 +558,7 @@
                 "key": "hhzyapi",
                 "name": "【🐠】火狐资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://hhzyapi.com/api.php/provide/vod/at/json"
             },
 
@@ -566,14 +566,14 @@
                 "key": "collectwolongzyw",
                 "name": "【🐠】卧龙资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://collect.wolongzyw.com/api.php/provide/vod/at/json"
             },
             {
                 "key": "m3u8apiyhzy",
                 "name": "【🐠】樱花资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/json"
             },
 
@@ -581,7 +581,7 @@
                 "key": "sdzyapi",
                 "name": "【🐠】闪电资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "http://sdzyapi.com/api.php/provide/vod/at/json"
             },
            
@@ -589,7 +589,7 @@
                 "key": "cjbajiecaiji",
                 "name": "【🐠】八戒资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "http://cj.bajiecaiji.com/inc/apijson_vod.php"
             },
            
@@ -597,14 +597,14 @@
                 "key": "pgfenwe078",
                 "name": "【🐠】四圈资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://pg.fenwe078.cf/api.php/provide/vod/at/json"
             },
             {
                 "key": "rrvipw",
                 "name": "【🐠】人人资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://www.rrvipw.com/api.php/provide/vod/at/json"
             },
           
@@ -612,14 +612,14 @@
                 "key": "taopianapi",
                 "name": "【🐠】淘片资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://taopianapi.com/cjapi/mc10/vod/json.html"
             },
             {
                 "key": "apizuidapi",
                 "name": "【🐠】最大资源",
                 "type": 1,
-                "api": "caiji.js",
+                "api": "./caiji.js",
                 "ext": "https://api.zuidapi.com/api.php/provide/vod/at/json"
             }
     ]
@@ -631,38 +631,38 @@
         "key": "bookan",
         "name": "【🎧】博看",
         "type": 10,
-        "api": "bookan_open.js"
+        "api": "./bookan_open.js"
       },
       {
         "key": "230ts",
         "name": "【🎧】听书",
         "type": 10,
-        "api": "230ts_book_open.js"
+        "api": "./230ts_book_open.js"
       },
       {
         "key": "dj",
         "name": "【🎧】音乐",
         "type": 10,
-        "api": "dj0898_book_open.js"
+        "api": "./dj0898_book_open.js"
       },
       {
         "key": "laobaigushi",
         "name": "【🎧】老白",
         "type": 10,
-        "api": "lbgs_open.js"
+        "api": "./lbgs_open.js"
       }, 
 
    {
         "key": "书音FM",
         "name": "【🎧】书音",
         "type": 10,
-        "api": "shuyinfm_book_open.js"
+        "api": "./shuyinfm_book_open.js"
    }, 
    {
         "key": "13听书",
         "name": "【🎧】十三",
         "type": 10,
-        "api": "ting13_book_open.js"
+        "api": "./ting13_book_open.js"
    }
     ]
   },
@@ -672,7 +672,7 @@
               "key": "copymanga",
               "name": "漫画",
               "type": 20,
-              "api": "copymanga_open.js"
+              "api": "./copymanga_open.js"
           }
       ]
   },
@@ -683,7 +683,7 @@
         "key": "alist",
         "name": "Alist",
         "type": 40,
-        "api": "alist_open.js",
+        "api": "./alist_open.js",
         "ext": [
           {
             "name": "🙋丫仙女",
